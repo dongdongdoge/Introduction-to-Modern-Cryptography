@@ -24,9 +24,9 @@
 
 与传统的密码学相对比
 
-| classical     | modern                         |      |      |
-| ------------- | ------------------------------ | ---- | ---- |
-| Ad-hoc fasion | well defined and proved models |      |      |
+| classical     | modern                         | 
+| ------------- | ------------------------------ | 
+| Ad-hoc fasion | well defined and proved models |
 
 背景知识
 
